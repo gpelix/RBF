@@ -1,0 +1,6 @@
+a.out
+*.s
+*.ll
+__builddir__/*
+old/*
+tests/*

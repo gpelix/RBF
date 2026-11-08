@@ -1,0 +1,8 @@
+# RBFC: Rome Brainf*** compiler
+RBFC is a Brainf*** compiler.
+# Requirements
+LLVM >= 23
+
+You may have to change -march according to your architecture
+If you want to change the length of the bf program data array
+modify default_data_length in meson.build
